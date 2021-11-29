@@ -1,0 +1,67 @@
+﻿@page
+@model Emigrante.App.Frontend.Pages.AddServicioModel
+@using Emigrante.App.Dominio
+@{
+}
+<style>
+    .center {
+        text-align: center
+    }
+
+    .resaltar {
+        font-weight: bold;
+        font-size: 18px;
+        color: green;
+    }
+</style>
+<form>
+    <div class="container mt-3">
+        <h2 class="center"> OFERTA DE SERVICIOS</h2>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="form-group col-md-6">
+            <label for="Servicio.FechaInicio">Fecha inicio</label>
+            <input type="text" class="form-control" id="Servicio.FechaInicio" placeholder="DD-MM-AA">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="Servicio.FechaFinal">Fecha final</label>
+            <input type="text" class="form-control" id="Servicio.FechaFinal" placeholder="DD-MM-AA">
+        </div>
+    </div>
+        <div class="form-group row">
+        <label asp-for="Servicio.Categoria" class="col-sm-2">Categoria</label>
+        <div class="col-sm-10">
+            <select asp-for="Servicio.Categoria" asp-items="Html.GetEnumSelectList<Categoria>()"></select>   
+        </div>
+        <span class="text-danger" asp-validation-for="Servicio.Categoria"></span>
+    </div>
+    </div>    
+    <div class="mb-3 mt-3">
+        <label for="Servicio.Descripcion">Descripcion del servicio:</label>
+        <textarea class="form-control" rows="5" id="Servicio.Descripcion" name="text"></textarea>
+    </div>
+    </div>
+        <div class="form-group row">
+        <label asp-for="Servicio.Estado" class="col-sm-2">Estado</label>
+        <div class="col-sm-10">
+            <select asp-for="Servicio.Estado" asp-items="Html.GetEnumSelectList<Estado>()"></select>   
+        </div>
+        <span class="text-danger" asp-validation-for="Servicio.Estado"></span>
+    </div>
+    <div class="container mt-3">
+        <button type="submit" class="btn btn-primary">PUBLICAR</button>
+        <button type="submit" class="btn btn-primary">CONSULTAR</button>
+        <button type="submit" class="btn btn-primary">ACTUALIZAR</button>
+        <button type="submit" class="btn btn-danger">ELIMINAR</button>
+    </div>
+    @* <div class="form-group">
+        <div class="form-check">
+        <input class="form-check-input" type="checkbox" id="gridCheck">
+        <label class="form-check-label" for="gridCheck">
+        Check me out
+        </label>
+        </div>
+        </div> *@
+</form>

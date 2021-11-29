@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HT14/sMdn4hAZhT+hDV4CE6k0pBlfi2H08AlJM+bu7VGkzHiqFd4iHNWhG4McQywL7vSCs2cDtKjS/+TJCQ4hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Emigrante\\Emigrante.App\\Emigrante.App.Servicios\\Emigrante.App.Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

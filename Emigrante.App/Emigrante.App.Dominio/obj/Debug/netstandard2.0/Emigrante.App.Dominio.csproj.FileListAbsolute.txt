@@ -1,0 +1,9 @@
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\bin\Debug\netstandard2.0\Emigrante.App.Dominio.deps.json
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\bin\Debug\netstandard2.0\Emigrante.App.Dominio.dll
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\bin\Debug\netstandard2.0\Emigrante.App.Dominio.pdb
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\obj\Debug\netstandard2.0\Emigrante.App.Dominio.AssemblyInfoInputs.cache
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\obj\Debug\netstandard2.0\Emigrante.App.Dominio.AssemblyInfo.cs
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\obj\Debug\netstandard2.0\Emigrante.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\obj\Debug\netstandard2.0\Emigrante.App.Dominio.dll
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\obj\Debug\netstandard2.0\Emigrante.App.Dominio.pdb
+C:\Emigrante\Emigrante.App\Emigrante.App.Dominio\obj\Debug\netstandard2.0\Emigrante.App.Dominio.csprojAssemblyReference.cache

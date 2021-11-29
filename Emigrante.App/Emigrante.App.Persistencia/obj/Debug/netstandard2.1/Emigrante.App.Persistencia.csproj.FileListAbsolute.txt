@@ -1,0 +1,12 @@
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\obj\Debug\netstandard2.1\Emigrante.App.Persistencia.csprojAssemblyReference.cache
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\obj\Debug\netstandard2.1\Emigrante.App.Persistencia.AssemblyInfoInputs.cache
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\obj\Debug\netstandard2.1\Emigrante.App.Persistencia.AssemblyInfo.cs
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\obj\Debug\netstandard2.1\Emigrante.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\bin\Debug\netstandard2.1\Emigrante.App.Persistencia.deps.json
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\bin\Debug\netstandard2.1\Emigrante.App.Persistencia.dll
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\bin\Debug\netstandard2.1\Emigrante.App.Persistencia.pdb
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\bin\Debug\netstandard2.1\Emigrante.App.Dominio.dll
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\bin\Debug\netstandard2.1\Emigrante.App.Dominio.pdb
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\obj\Debug\netstandard2.1\Emigrante.App.Persistencia.csproj.CopyComplete
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\obj\Debug\netstandard2.1\Emigrante.App.Persistencia.dll
+C:\Emigrante\Emigrante.App\Emigrante.App.Persistencia\obj\Debug\netstandard2.1\Emigrante.App.Persistencia.pdb
